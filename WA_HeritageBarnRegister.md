@@ -1,4 +1,4 @@
-Description
+##Description##
 Created with the passage of Substitute HB 2115 in May of 2007, the Washington Heritage Barn Register commemorates barns as historically significant resources representing the agricultural, economic and cultural development of the State of Washington.
 
 “Barns are a symbol of Washington’s agricultural heritage and are beautiful buildings in their own right,” said Governor Chris Gregoire.  “The Heritage Barn register will support the efforts of the Washingtonians who own these barns to preserve and stabilize these icons of our history.”
@@ -20,6 +20,7 @@ Listing on the Heritage Barn Register is strictly honorary in nature and offers 
 For further information about the Heritage Barn Program contact Michael Houser, State Architectural Historian at (360) 586-3076 or michael.houser@dahp.wa.gov.
 
 
-Access and Use Constraints
+##Access and Use Constraints##
 There are no access constraints. For use, please cite source the Washington State Department of Archaeology and Historic Preservation.
-http://www.arcgis.com/home/item.html?id=0ddf8c18881d49e29e9de9474cfd0178
+
+GeoJSON data converted from shapefile originally located at: http://www.arcgis.com/home/item.html?id=0ddf8c18881d49e29e9de9474cfd0178
